@@ -20,3 +20,21 @@
     overflow: hidden;
     border-radius: 100%;
 }
+h1 {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.topnav {
+  
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    
+}
