@@ -1,0 +1,22 @@
+.logo {
+    height: 50px;
+    width: 60px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+#batman-first {
+    height: 250px;
+    width: 150px;
+}
+#batman-second {
+    height: 250px;
+    width: 450px;
+}
+#batman-third {
+    height: 250px;
+    width: 450px;
+}
+#enemies {
+    height: 250px;
+    width: 450px;
+}

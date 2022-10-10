@@ -1,0 +1,38 @@
+body {
+    background-color:white;
+}
+
+h1 {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.topnav {
+  
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    
+}
+
+p {
+    text-justify: right;
+}
+
+#dc-second {
+    height: 20rem;
+    width: 23rem;
+}
+
+.logo {
+    height: 50px;
+    width: 60px;
+    overflow: hidden;
+    border-radius: 100%;
+}

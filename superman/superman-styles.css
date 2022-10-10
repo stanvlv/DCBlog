@@ -1,0 +1,22 @@
+#superman-first {
+    height: 250px;
+    width: 170px;
+}
+#superman-second {
+    height: 250px;
+    width: 450px;
+}
+#superman-third {
+    height: 250px;
+    width: 450px;
+}
+#enemies {
+    height: 250px;
+    width: 450px;
+}
+.logo {
+    height: 50px;
+    width: 60px;
+    overflow: hidden;
+    border-radius: 100%;
+}

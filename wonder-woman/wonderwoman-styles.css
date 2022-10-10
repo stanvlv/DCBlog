@@ -1,0 +1,22 @@
+.logo {
+    height: 50px;
+    width: 60px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+#wonderwoman-first {
+    height: 250px;
+    width: 170px;
+}
+#wonderwoman-second {
+    height: 250px;
+    width: 450px;
+}
+#wonderwoman-third {
+    height: 250px;
+    width: 450px;
+}
+#enemies {
+    height: 250px;
+    width: 450px;
+}
