@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(211, 211, 25);
+}
 #justiceleague-first {
     height: 260px;
     width: 450px;
@@ -34,3 +37,30 @@ h1 {
     word-spacing: 5px;
     
 }
+.link {
+    color:  rgb(0, 26, 255);
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid rgb(0, 89, 255);
+    border-radius: 10%;
+}
+img {
+    float: left;
+    margin-top: 5px;
+    margin-right: 12px;
+    margin-bottom: 3px;
+ 
+ }
+ p {
+    text-justify: right;
+    font-family: 'Open Sans', sans-serif;
+    word-spacing: 2px;
+    font-size: large;
+    color: rgb(25, 7, 189);
+ }
+ h2, h3, h4, h5 {
+    color: rgb(255, 0, 0);
+ }
+ .footer {
+    color: red;
+ }
