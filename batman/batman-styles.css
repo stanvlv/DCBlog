@@ -1,3 +1,6 @@
+body {
+    background-color: rgba(5, 5, 5, 0.89);
+}
 .logo {
     height: 50px;
     width: 60px;
@@ -24,17 +27,41 @@ h1 {
     width: 500px;
     margin: 0 auto;
     text-align: center;
-    color: black;
+    color: rgb(60, 112, 224);
     margin-bottom: 10px;
 }
 
 .topnav {
-  
-    border-radius: 10px;
-    font-weight: bold;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        margin: 0 auto;
+        text-transform: uppercase;
+        word-spacing: 5px;
+        margin-bottom: 25px;
+        
+}
+.link {
+    color:  rgb(60, 112, 224);
+    text-decoration: none;
     text-align: center;
-    margin: 0 auto;
-    text-transform: uppercase;
-    word-spacing: 5px;
-    
+    border: 1px solid rgb(60, 112, 224);
+    border-radius: 10%;
+}
+img {
+    float: left;
+    margin-top: 5px;
+    margin-right: 12px;
+    margin-bottom: 3px;
+ 
+ }
+ p {
+    text-justify: right;
+    font-family: 'Open Sans', sans-serif;
+    word-spacing: 2px;
+    font-size: large;
+    color: rgb(98, 140, 231);
+}
+h2, h3, h4, h5 {
+    color:rgb(4, 82, 250);
 }
